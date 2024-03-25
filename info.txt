@@ -1,0 +1,6 @@
+Tecnologias a serem utilizadas:
+
+Create React App para a web ou React Native para dispositivos móveis
+npm package react-markdown para exibir markdown em sua UI da aplicação
+npm package react-codemirror2 para escrever código em suas anotações
+npm package react-draggable para reordenar o conteúdo das listas clicando e arrastando

@@ -1,0 +1,2 @@
+https://felipegalvao.com.br/pt/blog/learn-react-components-state-and-props/#:~:text=Para%20resumir%20um%20pouco%20tudo%20que%20vimos%2C%20seguem,das%20props%20ao%20organizar%20sua%20aplica%C3%A7%C3%A3o%20em%20componentes
+
